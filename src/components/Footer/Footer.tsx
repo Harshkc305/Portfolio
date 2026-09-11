@@ -119,9 +119,8 @@ export const Footer = () => {
 
           {/* Copyright notice */}
           <div className="flex items-center gap-1.5 font-medium text-center md:text-right">
-            <span>© {new Date().getFullYear()} Harsh Kumar Choudhary. Crafted with</span>
-            <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500 inline-block" />
-            <span>&amp; Lightswind UI</span>
+            <span>© {new Date().getFullYear()} Harsh Kumar Choudhary.</span>
+            
           </div>
         </div>
 
