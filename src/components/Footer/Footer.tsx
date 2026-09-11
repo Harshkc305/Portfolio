@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Github, Linkedin, Phone, Mail, ArrowUp, Heart } from "lucide-react";
+import { Github, Linkedin, Phone, Mail, ArrowUp } from "lucide-react";
 import { MorphingText } from "../lightswind/morphing-text";
 
 export const Footer = () => {
